@@ -1,0 +1,4 @@
+Pintar incidencias
+Usuario, area, fecha, acciones vista de incidencias y pintarlas en una tabla
+
+api/incidences/pending/2
